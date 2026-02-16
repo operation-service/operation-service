@@ -29,7 +29,7 @@
 </p>
 
 <details>
-  <summary><h2><strong>📌 Personal Details (Click Here):</strong></h2></summary>
+  <summary><h2><strong>📌 Personal Details about us (Click Here):</strong></h2></summary>
 
   - 🌍 **Location:** Campinas and Valinhos, SP - Brazil
   - 🎯 **Goal:** To provide high-quality equipment and solutions for bonding and sealing, contributing to our clients' success through national technology.
