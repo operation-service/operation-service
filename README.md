@@ -21,9 +21,8 @@
 <details>
   <summary><h2><strong>📌 Personal Details (Click Here):</strong></h2></summary>
 
-  - 🌍 **Location:** Campinas, SP - Brazil
-  - 🎓 **Education:** Pursuing a Technology Degree in Data Science at UNINTER (Expected: July 2027)
-  - 🎯 **Goal:** Build expertise across the entire data lifecycle (collection, processing, analysis, and visualization)
+  - 🌍 **Location:** Valinhos, SP - Brazil
+  - 🎯 **Goal:**To provide high-quality equipment and solutions for bonding and sealing, contributing to our clients' success through national technology.
 </details>
 
 ---
