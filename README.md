@@ -36,6 +36,3 @@
   - 🌍 **Location:** Campinas and Valinhos, SP - Brazil
   - 🎯 **Goal:** To provide high-quality equipment and solutions for bonding and sealing, contributing to our clients' success through national technology.
 </details>
----
-
-**<h2>📌 Did You Know?</h2>** "Data is the new oil, but it's only valuable when refined!" - Clive Humby
