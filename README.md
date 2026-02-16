@@ -27,17 +27,11 @@
 
 ---
 
-### <h2>📈 GitHub Statistics:</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gskars&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_seconds=1800" />
-</div>
----
 
 ### <h2>🚀 Featured Projects:</h2>
 
-[![Travel Chatbot](https://img.shields.io/badge/🔗-Travel_Chatbot_(Python_+_AI)-2EBD85?style=for-the-plastic)](https://github.com/Gskars/Edition-One)
-> Tourist destination recommendation system using natural language processing (NLP).
+[![In progress](https://img.shields.io/badge/🔗-Travel_Chatbot_(Python_+_AI)-2EBD85?style=for-the-plastic)](https://github.com/Gskars/Edition-One)
+> In Progress.
 
 *(More projects coming soon!)*
 
