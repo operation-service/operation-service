@@ -60,4 +60,4 @@
 
 ---
 
-**<h2>📌 Did You Know?</h2>** "Data is
+**<h2>📌 Did You Know?</h2>** "Data is the new oil, but it's only valuable when refined!" - Clive Humby
