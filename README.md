@@ -4,7 +4,7 @@
 
 ### <h2>🏢 About Us:</h2>
 <div align="center">
-  <img src="https://github.com/operation-service/img/blob/main/rais.JPG?raw=true" alt="RAIS and SilimaQ Branding" width="600" />
+  <img src="https://github.com/operation-service/img/blob/main/rais.png?raw=true" alt="RAIS and SilimaQ Branding" width="600" />
 </div>
 <br>
 <p>
